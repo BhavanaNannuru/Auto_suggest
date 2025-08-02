@@ -5,7 +5,7 @@ Introducing a streamlined auto-suggest program tailored for 4-letter words, util
 
 New version under plan:
 
-# 📆 AutoSuggest System – Development Plan
+# AutoSuggest System – Development Plan
 
 ### **Setup**
 - Create GitHub repo and project structure  
